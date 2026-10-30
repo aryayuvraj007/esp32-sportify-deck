@@ -132,10 +132,6 @@ Replace `COM3` with your ESP32's actual serial port.
 4. ESP32 processes the received data.
 5. OLED displays the song information and playback progress.
 
-## 📸 Project Preview
-
-*Add your OLED display photo or project demo video here.*
-
 ## 🚀 Future Improvements
 
 - [ ] Album artwork support using a compatible display
