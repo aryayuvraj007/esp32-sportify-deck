@@ -147,17 +147,6 @@ Replace `COM3` with your ESP32's actual serial port.
 - Spotify metadata availability depends on Windows Media Session support.
 - Album artwork is not displayed on the current monochrome SSD1306 OLED.
 - Close Arduino Serial Monitor before running the Python application.
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome!
-
-Feel free to fork this repository and submit a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 **Built with ❤️ using ESP32, Python, and Arduino.**
