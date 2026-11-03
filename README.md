@@ -4,7 +4,7 @@ An ESP32-based Spotify desktop controller that displays currently playing music 
 
 This project uses Python and Windows Media Control APIs to retrieve music metadata and send it to an ESP32 over serial communication.
 
-## ✨ 
+## ✨  Features
 
 - 🎵 Displays currently playing song title
 - 🎤 Displays artist and album information
