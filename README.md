@@ -1,4 +1,4 @@
-# 🎵 ESP32 Spotify Deck
+ 🎵 ESP32 Spotify Deck
 
 An ESP32-based Spotify desktop controller that displays currently playing music information on a **0.96-inch SSD1306 OLED display**.
 
